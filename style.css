@@ -24,8 +24,14 @@ body {
   color: white;
 }
 h6 {
-  color: gray;
+  color: LightGray;
 }
 iframe {
   display:block;
+}
+td {
+  align="center"
+}
+th {
+  align="center"
 }
