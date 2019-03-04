@@ -27,5 +27,5 @@ h6 {
   color: gray;
 }
 iframe {
- style="float:center" 
+  display:block;
 }
