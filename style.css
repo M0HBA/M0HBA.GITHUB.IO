@@ -29,6 +29,10 @@ h6 {
 iframe {
   display:block;
 }
+#meetings {
+  border-collapse: collapse;
+  width: 100%;
+}
 #meetings td, #meetings th {
   border: 1px solid #ddd;
   padding: 8px;
