@@ -29,9 +29,13 @@ h6 {
 iframe {
   display:block;
 }
-td {
-  align="center"
+td,th {
+   border: 1px solid #ddd;
+  padding: 8px;
+}
+tr {
+  text-align: center;
 }
 th {
-  align="center"
+  text-align: center;
 }
