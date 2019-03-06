@@ -37,12 +37,12 @@ iframe {
 }
 #meetings td, #meetings th {
   border: 1px solid #ddd;
-  padding: 8px;
+  padding: 2px;
 }
 
 #meetings th {
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
   text-align: left;
   background-color: #4CAF50;
   color: white;
